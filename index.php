@@ -149,6 +149,7 @@ include 'dbconnect.php';
 									</li>
 									<li><a href="cart.php">Keranjang Saya</a></li>
 									<li><a href="daftarorder.php">Daftar Order</a></li>
+									<li><a href="profile.php">Profil kami</a></li>
 								</ul>
 							</div>
 							</nav>
